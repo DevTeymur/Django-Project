@@ -5,3 +5,7 @@ env\Scrpits\activate (for Windows)
 
 To run server local inside src folder:
 python manage.py runserver
+
+
+## Link
+http://smartedu-tim.herokuapp.com/
